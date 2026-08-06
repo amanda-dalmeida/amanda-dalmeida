@@ -46,10 +46,8 @@ Estou em busca de uma oportunidade para aplicar meus conhecimentos, desenvolver 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=amanda-dalmeida&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-dalmeida&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170cm" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanda-dalmeida&show_icons=true&theme=github_dark"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanda-dalmeida&layout=compact&theme=github_dark"/>
 
 </div>
 
