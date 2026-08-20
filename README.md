@@ -44,10 +44,11 @@ Estou em busca de uma oportunidade para aplicar meus conhecimentos, desenvolver 
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanda-dalmeida&show_icons=true&theme=github_dark"/>
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanda-dalmeida&layout=compact&theme=github_dark"/>
+<img height="170" src="./profile/stats.svg"/>
+<img height="170" src="./profile/top-langs.svg"/>
 
 </div>
 
