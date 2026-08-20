@@ -44,7 +44,6 @@ Estou em busca de uma oportunidade para aplicar meus conhecimentos, desenvolver 
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 <div align="center">
 <img height="170" src="./profile/stats.svg"/>
